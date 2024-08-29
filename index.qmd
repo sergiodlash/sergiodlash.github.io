@@ -1,0 +1,36 @@
+---
+title: "Sergio de las Heras"
+subtitle: |
+  Acoustics and Psychoacoustics
+format: html
+toc: false
+editor: visual
+theme: cosmo
+favicon: favicon.ico
+# Optional social icons
+social:
+  - icon: github
+    href: "https://github.com/sergiodlash"
+  - icon: linkedin
+    href: "https://www.linkedin.com/in/sergiodlash"
+---
+
+Welcome to my site! I am Sergio de las Heras, master in Electrical Engineering, Information Technology and Computer Engineering, but I am mostly interested in acoustics and pyschoacoustics. I like exploring new ways of doing things and continuously learning.
+
+## About Me
+
+I have a background in Telecommunication Technologies. Over the years, I have worked on diverse projects in both academic and private sector.
+
+## Links
+
+Where to check out my work and get in touch with me:
+
+- **Email**: [sergiodlash.info@gmail.com](mailto:sergiodlash.info@gmail.com)
+- **GitHub**: [github.com/sergiodlash](https://github.com/sergiodlash)
+- **LinkedIn**: [linkedin.com/in/sergiodlash](https://www.linkedin.com/in/sergiodlash)
+
+
+---
+
+<!--*This website is built with [Quarto](https://quarto.org/) and hosted on GitHub Pages.*-->
+
