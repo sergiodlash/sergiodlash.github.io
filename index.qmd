@@ -14,6 +14,8 @@ social:
     href: "https://www.linkedin.com/in/sergiodlash"
 ---
 
+![](./images/profilePic.jpg)
+
 Welcome to my site! I am Sergio de las Heras, master in Electrical Engineering, Information Technology and Computer Engineering, but I am mostly interested in acoustics and pyschoacoustics. I like exploring new ways of doing things and continuously learning.
 
 ## About Me
