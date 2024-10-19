@@ -1,20 +1,30 @@
 project:
   type: website
   output-dir: docs
-
+  
 website:
   title: "Sergio de las Heras"
+  favicon: favicon.ico
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      #- about.qmd
+      #- href: index.qmd
+      #  text: Home
+      - href: about.qmd
+        text: About
+  page-footer: 
+    left: "© 2024 Sergio de las Heras" 
+    right: 
+      - icon: linkedin
+        href: "https://linkedin.com/in/sergiodlash"
+      - icon: github
+        href: "https://github.com/sergiodlash"
+      - text: "{{< ai researchgate >}}"
+        href: "https://www.researchgate.net/profile/Sergio-De-Las-Heras"
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-
+    toc: false
 
 

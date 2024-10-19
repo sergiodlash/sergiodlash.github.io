@@ -6,3 +6,6 @@
 
 /.quarto/
 website.Rproj
+_extensions
+docs/site_libs/quarto-contrib
+

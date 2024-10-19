@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About me:"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sergio de las Heras",
     "section": "",
-    "text": "Welcome to my site! I am Sergio de las Heras, MSc in Electrical Engineering, Information Technology and Computer Engineering by RWTH Achen University. In the last few years, I have been mostly focusing in acoustics and pyschoacoustics, working as as student assistant at IHTA and developing my master thesis in Aalto Acoustics Lab in Helsinki. I am currently based in Copenhagen, working as a research intern at Bang&Olufsen."
+    "text": "Hola! I am Sergio de las Heras, MSc in Electrical Engineering, Information Technology and Computer Engineering by RWTH Achen University. In the last few years, I have been mostly focusing in acoustics and pyschoacoustics, working as as student assistant at IHTA and developing my master thesis in Aalto Acoustics Lab in Helsinki. I am currently based in Copenhagen, working as a research intern at Bang&Olufsen."
   },
   {
     "objectID": "index.html#about-me",
@@ -25,6 +25,6 @@
     "href": "index.html#links",
     "title": "Sergio de las Heras",
     "section": "Links",
-    "text": "Links\nWhere to check out my work and get in touch with me:\n\nEmail: sergiodlash.info@gmail.com\nGitHub: github.com/sergiodlash\nLinkedIn: linkedin.com/in/sergiodlash"
+    "text": "Links\nWhere to check out my work and get in touch with me:"
   }
 ]

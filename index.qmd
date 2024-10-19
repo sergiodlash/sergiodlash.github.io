@@ -1,33 +1,22 @@
 ---
 title: "Sergio de las Heras"
 subtitle: "Acoustics and Psychoacoustics"
-format: html
-toc: false
-editor: visual
-theme: cosmo
-favicon: favicon.ico
-# Optional social icons
-social:
-  - icon: github
-    href: "https://github.com/sergiodlash"
-  - icon: linkedin
-    href: "https://www.linkedin.com/in/sergiodlash"
 ---
 
 ![](./images/profilePic.jpg)
 
-Welcome to my site! I am Sergio de las Heras, MSc in Electrical Engineering, Information Technology and Computer Engineering by [RWTH Achen University](https://www.rwth-aachen.de). In the last few years, I have been mostly focusing in acoustics and pyschoacoustics, working as as student assistant at [IHTA](https://www.akustik.rwth-aachen.de) and developing my master thesis in [Aalto Acoustics Lab](https://www.aalto.fi/en/aalto-acoustics-lab) in Helsinki.
-I am currently based in Copenhagen, working as a research intern at [Bang&Olufsen](https://www.bang-olufsen.com).
+Hola! I am Sergio de las Heras, MSc in Electrical Engineering, Information Technology and Computer Engineering by [RWTH Achen University](https://www.rwth-aachen.de). In the last few years, I have been mostly focusing in acoustics and pyschoacoustics, working as as student assistant at [IHTA](https://www.akustik.rwth-aachen.de) and developing my master thesis in [Aalto Acoustics Lab](https://www.aalto.fi/en/aalto-acoustics-lab) in Helsinki. I am currently based in Copenhagen, working as a research intern at [Bang&Olufsen](https://www.bang-olufsen.com).
 
 ## About Me
 
 I studied my bachelors in Telecommunication Technologies Engineering at [Universidad Carlos III de Madrid](https://www.uc3m.es), before moving to Germany to pursue my masters degree. While in Madrid, I also studied clarinet, and became involved in university's photography society where I discovered my passion for analog photography.
 
-
 ## Links
 
 Where to check out my work and get in touch with me:
 
--   **Email**: [sergiodlash.info\@gmail.com](mailto:sergiodlash.info@gmail.com)
--   **GitHub**: [github.com/sergiodlash](https://github.com/sergiodlash)
--   **LinkedIn**: [linkedin.com/in/sergiodlash](https://www.linkedin.com/in/sergiodlash)
+{{< bi envelope >}}
+
+{{< ai arxiv >}}
+
+{{< ai arxiv >}}

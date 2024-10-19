@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-About this site
+About me:
 
 ```{r}
-1 + 1
+
 ```
