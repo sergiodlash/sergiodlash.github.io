@@ -23,8 +23,13 @@ website:
 
 format:
   html:
+    base-url: sergiodlash.github.io
     theme: cosmo
     css: styles.css
     toc: false
+    
+resources:
+  - _extensions/schochastics/academicicons
+
 
 
