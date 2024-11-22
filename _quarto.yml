@@ -29,7 +29,7 @@ format:
     toc: false
     
 resources:
-  - _extensions/schochastics/academicicons
+  - _extensions/schochastics/academicons
 
 
 
