@@ -1,18 +1,29 @@
 ---
 title: "Sergio de las Heras"
-subtitle: "Acoustics and Psychoacoustics"
+subtitle: "Technical Psychoacoustics"
 ---
 
 ![](./images/profilePic.jpg)
 
-Hola! I am Sergio de las Heras, MSc in Electrical Engineering, Information Technology and Computer Engineering by [RWTH Achen University](https://www.rwth-aachen.de). In the last few years, I have been mostly focusing in acoustics and pyschoacoustics, working as as student assistant at [IHTA](https://www.akustik.rwth-aachen.de) and developing my master thesis in [Aalto Acoustics Lab](https://www.aalto.fi/en/aalto-acoustics-lab) in Helsinki. I am currently based in Copenhagen, working as a research intern at [Bang&Olufsen](https://www.bang-olufsen.com).
+Hola!
 
-I studied my bachelors in Telecommunication Technologies Engineering at [Universidad Carlos III de Madrid](https://www.uc3m.es), before moving to Germany to pursue my masters degree. While in Madrid, I also studied clarinet, and became involved in university's photography society where I discovered my passion for analog photography. I am also fond of cycling and adventure on my free time.
+I am Sergio de las Heras, doctoral researcher in the [Aalto Acoustics Lab](https://www.aalto.fi/en/aalto-acoustics-lab) in Helsinki, investigating room acoustics perception. 
+Currently based in Santa Clara Valley, working as an Audio Technology intern for [Apple](https://www.apple.com).
+
+I studied my bachelors in Telecommunication Technologies Engineering at [Universidad Carlos III de Madrid](https://www.uc3m.es). After that, I moved to Germany to pursue my masters degree in Electrical Engineering, Information Technology and Computer Engineering at [RWTH Achen University](https://www.rwth-aachen.de), working as a student assistant at the [Institute of Hearing Technologies and Acoustics](https://www.akustik.rwth-aachen.de) and interning for [Bang&Olufsen](https://www.bang-olufsen.com) in Copenhagen.
+
+I also studied clarinet and became involved in university's photography society where I discovered my passion for analog photography. I fill up the rest of my free time reading, cycling and travelling.
 
 ## Links
 
-<a href="https://www.linkedin.com/in/sergiodlash/" style="text-decoration: none; color: inherit;"> {{< bi linkedin >}}   in/sergiodlash </a>
+<a href="https://www.linkedin.com/in/sergiodlash/" style="text-decoration: none; color: inherit;"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">
+in/sergiodlash </a>
 
-<a href="https://github.com/sergiodlash" style="text-decoration: none; color: inherit;"> {{< bi github >}}   sergiodlash </a>
+<a href="https://github.com/sergiodlash" style="text-decoration: none; color: inherit;">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">
+ sergiodlash </a>
 
-<a href="https://www.researchgate.net/profile/Sergio-De-Las-Heras" style="text-decoration: none; color: inherit;"> [{{< ai researchgate >}}]{style="font-size: 1.1em"}   Sergio de las Heras </a>
+<a href="https://www.researchgate.net/profile/Sergio-De-Las-Heras" style="text-decoration: none; color: inherit;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">
+  Sergio de las Heras
+</a>

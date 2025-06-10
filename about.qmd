@@ -2,11 +2,9 @@
 title: "About me"
 ---
 
-📚 Reaching the end of my master studies in Electrical Engineering, Information Technology and Computer Engineering, at RWTH Aachen. There, I worked as a student assistant in the Institute of Hearing Technology and Acoustics (IHTA), formerly known as ITA, as a programmer for the Virtual Acoustics simulation software.
+📚 Doctoral Researcher in the Technical Psychoacoustics group at the Aalto Acoustics Lab.
 
-🎧 Developed my master thesis in the Aalto Acoustics Lab at Aalto Univeristy in Helsinki, in a collaboration with the group of Virtual Acoustics from Aalto University and the PAAD research group from RWTH AAchen.
+🎧 Based in Helsinki, currently in Cupertino CA, working as a research intern in Audio Technolgy for Apple. 
 
-🛠️ Currently based in Copenhagen, working on a research project for Bang&Olufsen.
-
-⚡ I spend most of my free time beween cycling, photography and music, so I am always with my hands dirty!
+🛠 Always looking for projects! Reach out to collaborate!
 

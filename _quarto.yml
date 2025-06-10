@@ -12,14 +12,14 @@ website:
       - href: about.qmd
         text: About
   page-footer: 
-    left: "© 2024 Sergio de las Heras" 
-    right: 
-      - icon: linkedin
-        href: "https://linkedin.com/in/sergiodlash"
-      - icon: github
-        href: "https://github.com/sergiodlash"
-      - text: "{{< ai researchgate >}}"
-        href: "https://www.researchgate.net/profile/Sergio-De-Las-Heras"
+    left: "© 2025 Sergio de las Heras" 
+    right:
+      - href: "https://linkedin.com/in/sergiodlash"
+        text: "<img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' alt='LinkedIn' style='height:1em; filter: grayscale(100%) brightness(1); vertical-align: middle;'>"
+      - href: "https://github.com/sergiodlash"
+        text: "<img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='GitHub' style='height:1em; filter: grayscale(100%) brightness(1); vertical-align: middle;'>"
+      - href: "https://www.researchgate.net/profile/Sergio-De-Las-Heras"
+        text: "<img src='https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg' alt='ResearchGate' style='height:1em; filter: grayscale(100%); vertical-align: middle;'>"
 
 format:
   html:
@@ -27,9 +27,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
-    
-resources:
-  - _extensions/schochastics/academicons
 
 
 
