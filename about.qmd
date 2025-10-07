@@ -2,9 +2,34 @@
 title: "About me"
 ---
 
-📚 Doctoral Researcher in the Technical Psychoacoustics group at the Aalto Acoustics Lab.
+**Hola!**
 
-🎧 Based in Helsinki, currently in Cupertino CA, working as a research intern in Audio Technolgy for Apple. 
+I am Sergio de las Heras, doctoral researcher in the [Technical Psychoacoustics](https://www.aalto.fi/en/department-of-information-and-communications-engineering/technical-psychoacoustics) group of the [Aalto Acoustics Lab](https://www.aalto.fi/en/aalto-acoustics-lab) in Helsinki, Finland.
 
-🛠 Always looking for projects! Reach out to collaborate!
+**Education**
+
+I began my academic journey in Madrid, where I studied my BSc in Telecommunication Technologies Engineering at [UC3M](https://www.uc3m.es). During this time, I completed my music education in clarinet at [CIEM FMT](https://www.comunidad.madrid/centros/centro-integrado-ensenanzas-artisticas-federico-moreno-torroba). I also participated in a semester-long exchange as part of my bachelors in [USYD](https://www.sydney.edu.au) in Sydney, Australia.
+
+After obtaining my degree, I moved to Germany where I joined [RWTH Achen University](https://www.rwth-aachen.de) to study the MSc in Electrical Engineering, Information Technology and Computer Engineering. There, I worked as a student assistant at the [Institute of Hearing Technologies and Acoustics](https://www.akustik.rwth-aachen.de).
+
+
+In early 2025, I moved to Helsinki and began my PhD in the [Technical Psychoacoustics](https://www.aalto.fi/en/department-of-information-and-communications-engineering/technical-psychoacoustics) group at [Aalto University](https://www.aalto.fi/en/aalto-acoustics-lab).
+
+**Outside university...**
+
+I also have experience in industry, in the summer of 2024 I worked as Research Intern for [Bang&Olufsen](https://www.bang-olufsen.com) in Copenhagen, Denmark.
+
+In the summer of 2025, I moved Cupertino, CA to work for [Apple](https://www.apple.com) as an Audio Technology Intern.
+
+Looking for the next adventure!
+
+**What else?**
+
+The rest of my time is filled reading, cycling, travelling, attending concerts and analog photography.
+
+
+**Reach out!**
+
+🛠 Always looking for new exciting projects! Reach out to collaborate!
+
 

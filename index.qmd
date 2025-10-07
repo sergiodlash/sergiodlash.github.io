@@ -7,12 +7,9 @@ subtitle: "Technical Psychoacoustics"
 
 Hola!
 
-I am Sergio de las Heras, doctoral researcher in the [Aalto Acoustics Lab](https://www.aalto.fi/en/aalto-acoustics-lab) in Helsinki, investigating room acoustics perception. 
+I am Sergio de las Heras, doctoral researcher in the [Aalto Acoustics Lab](https://www.aalto.fi/en/aalto-acoustics-lab) in Helsinki, investigating room acoustic perception.
+
 Currently based in Santa Clara Valley, working as an Audio Technology intern for [Apple](https://www.apple.com).
-
-I studied my bachelors in Telecommunication Technologies Engineering at [Universidad Carlos III de Madrid](https://www.uc3m.es). After that, I moved to Germany to pursue my masters degree in Electrical Engineering, Information Technology and Computer Engineering at [RWTH Achen University](https://www.rwth-aachen.de), working as a student assistant at the [Institute of Hearing Technologies and Acoustics](https://www.akustik.rwth-aachen.de) and interning for [Bang&Olufsen](https://www.bang-olufsen.com) in Copenhagen.
-
-I also studied clarinet and became involved in university's photography society where I discovered my passion for analog photography. I fill up the rest of my free time reading, cycling and travelling.
 
 ## Links
 
