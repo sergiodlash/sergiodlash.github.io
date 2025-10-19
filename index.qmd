@@ -1,15 +1,13 @@
 ---
 title: "Sergio de las Heras"
-subtitle: "Technical Psychoacoustics"
+subtitle: "Doctoral Researcher, Technical Psychoacoustics"
 ---
 
 ![](./images/profilePic.jpg)
 
 Hola!
 
-I am Sergio de las Heras, doctoral researcher in the [Aalto Acoustics Lab](https://www.aalto.fi/en/aalto-acoustics-lab) in Helsinki, investigating room acoustic perception.
-
-Currently based in Santa Clara Valley, working as an Audio Technology intern for [Apple](https://www.apple.com).
+I am Sergio de las Heras, doctoral researcher at the [Technical Psychoacoustics Group](https://www.aalto.fi/en/department-of-information-and-communications-engineering/technical-psychoacoustics) in the [Aalto Acoustics Lab](https://www.aalto.fi/en/aalto-acoustics-lab) under the supervision of [Prof. Johannes M. Arend](https://www.aalto.fi/en/people/johannes-m-arend) and [Nils Meyer-Kahlen, PhD](https://www.aalto.fi/en/people/nils-daniel-meyer-kahlen). I am interested in sound perception in Virtual and Augmented Reality, perception of room acoustics, and human centered audio research.
 
 ## Links
 
@@ -21,6 +19,13 @@ in/sergiodlash </a>
  sergiodlash </a>
 
 <a href="https://www.researchgate.net/profile/Sergio-De-Las-Heras" style="text-decoration: none; color: inherit;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">
+  Sergio de las Heras
+</a>
+
+<a href="https://scholar.google.com/citations?user=sergiodlash" style="text-decoration: none; color: inherit;">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="height: 1em; vertical-align: middle; margin-right: 0.3em;">
   Sergio de las Heras
 </a>

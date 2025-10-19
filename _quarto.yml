@@ -1,9 +1,9 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
-  title: "Sergio de las Heras"
+  title: 'Sergio de las Heras'
   favicon: favicon.ico
   navbar:
     left:
@@ -11,15 +11,19 @@ website:
       #  text: Home
       - href: about.qmd
         text: About
-  page-footer: 
-    left: "© 2025 Sergio de las Heras" 
+  page-footer:
+    left: '© 2025 Sergio de las Heras'
     right:
-      - href: "https://linkedin.com/in/sergiodlash"
+      - href: 'https://linkedin.com/in/sergiodlash'
         text: "<img src='https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg' alt='LinkedIn' style='height:1em; filter: grayscale(100%) brightness(1); vertical-align: middle;'>"
-      - href: "https://github.com/sergiodlash"
+      - href: 'https://github.com/sergiodlash'
         text: "<img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' alt='GitHub' style='height:1em; filter: grayscale(100%) brightness(1); vertical-align: middle;'>"
-      - href: "https://www.researchgate.net/profile/Sergio-De-Las-Heras"
+      - href: 'https://www.researchgate.net/profile/Sergio-De-Las-Heras'
         text: "<img src='https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg' alt='ResearchGate' style='height:1em; filter: grayscale(100%); vertical-align: middle;'>"
+      - href: 'https://scholar.google.com/citations?user=sergiodlash'
+        text: "<img src='https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg' alt='Google Scholar' style='height:1em; filter: grayscale(100%) brightness(1); vertical-align: middle;'>"
+      - href: 'https://orcid.org/0009-0007-8718-922X'
+        text: "<img src='https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg' alt='ORCID' style='height:1em; filter: grayscale(100%) brightness(1); vertical-align: middle;'>"
 
 format:
   html:
@@ -27,6 +31,3 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
-
-
-
