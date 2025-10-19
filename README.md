@@ -2,10 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sergiodlash/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=0A66C2)](https://github.com/sergiodlash)
+[![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sergio-De-Las-Heras)
+[![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-8718-922X)
 
-### About me:
-📚 Doctoral Researcher in the Technical Psychoacoustics group at the Aalto Acoustics Lab.
-
-🎧 Based in Helsinki, currently in Cupertino CA, working as a research intern for Apple. 
-
-🛠 Always looking for projects! Reach out to collaborate!
+Go to [sergiodlash.github.io](https://sergiodlash.github.io) to see more!
